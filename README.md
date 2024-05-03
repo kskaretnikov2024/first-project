@@ -2,7 +2,7 @@
 
 ## Заголовок чуть поменьше
 
-[Yandex] (www.yandex.ru "Это Яндекс")
+[Yandex] (https://www.yandex.ru "Это Яндекс")
 
 *курсив*
 
@@ -11,6 +11,6 @@
 
 Обычный текст
 
-'''
+```
 System.out.println("Test");
-'''
+```
